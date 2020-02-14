@@ -12,4 +12,6 @@ end
 
 def sort_array_char_count
   array.sort
-  
+  left.length <=> right.length
+  end
+end
