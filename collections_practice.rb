@@ -40,7 +40,6 @@ def find_a(array)
   sum = 0
   array.each do |num|
     sum+=num
-  sum
 end 
 
 def add_s(array)
